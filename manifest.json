@@ -1,0 +1,21 @@
+
+{
+  "short_name": "饮啄日程",
+  "name": "饮啄刺青内部日程系统",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=YZ&backgroundColor=e11d48",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=YZ&backgroundColor=e11d48",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#050505",
+  "background_color": "#050505"
+}

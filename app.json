@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#050505",
+    "navigationBarTitleText": "饮啄刺青内部日程",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#050505",
+    "backgroundTextStyle": "light"
+  },
+  "sitemapLocation": "sitemap.json"
+}
